@@ -1,2 +1,3 @@
 # Kelompok 4
- - Rendi Saputra -> 22310011
+ - 
+  - Nim: 22310011, Nama: Rendi Saputra 22310011
